@@ -1,4 +1,4 @@
 var app= angular.module('userProfiles')
-app.controller('mainController', function($scope){
-	
+app.controller('mainController', function($scope, mainService){
+
 })

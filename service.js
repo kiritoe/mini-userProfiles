@@ -1,7 +1,6 @@
 var app= angular.module('userProfiles')
 app.service('mainService', function(){
-	var data =
-	[
+	var data =[
 	
 	{
     "id": 1,
